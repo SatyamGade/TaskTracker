@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/TaskTracker/static/js/main.59663061.js",
+    "static/js/787.7c4f6ff0.chunk.js": "/TaskTracker/static/js/787.7c4f6ff0.chunk.js",
+    "index.html": "/TaskTracker/index.html",
+    "main.59663061.js.map": "/TaskTracker/static/js/main.59663061.js.map",
+    "787.7c4f6ff0.chunk.js.map": "/TaskTracker/static/js/787.7c4f6ff0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.59663061.js"
+  ]
+}
